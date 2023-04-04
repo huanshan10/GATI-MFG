@@ -8,6 +8,9 @@ The proposed method has several advantages:
 * It is a gene-based test that can integrate the collective effect of multiple genetic variants, including both common and rare variants. 
 * It is especially suited for detecting the joint effects due to rare variants with a larger sample, which may be missed by the conventional single-variant-based association tests.
 
+# NBDPS Application Results
+Available [here](https://github.com/huanshan10/GATI-MFG/blob/main/GATI_MFG_results.txt)
+
 # GATI-MFG Function
 Available [here](https://github.com/huanshan10/GATI-MFG/blob/main/Code/GATI_MFG_function.R)
 
