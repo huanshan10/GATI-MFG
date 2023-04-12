@@ -10,6 +10,7 @@ The proposed method has several advantages:
 
 # NBDPS Application Results
 [GATI-MFG results](https://github.com/huanshan10/GATI-MFG/blob/main/GATI_MFG_results.txt)
+
 [SLR results](https://github.com/huanshan10/GATI-MFG/tree/main/SLR%20Results)
 
 # GATI-MFG Function
