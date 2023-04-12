@@ -9,9 +9,9 @@ The proposed method has several advantages:
 * It is especially suited for detecting the joint effects due to rare variants with a larger sample, which may be missed by the conventional single-variant-based association tests.
 
 # NBDPS Application Results
-[GATI-MFG results](https://github.com/huanshan10/GATI-MFG/blob/main/GATI_MFG_results.txt)
+- [GATI-MFG results](https://github.com/huanshan10/GATI-MFG/blob/main/GATI_MFG_results.txt)
 
-[SLR results](https://github.com/huanshan10/GATI-MFG/tree/main/SLR%20Results)
+- [SLR results](https://github.com/huanshan10/GATI-MFG/tree/main/SLR%20Results)
 
 # GATI-MFG Function
 Available [here](https://github.com/huanshan10/GATI-MFG/blob/main/Code/GATI_MFG_function.R)
